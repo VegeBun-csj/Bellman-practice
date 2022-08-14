@@ -1,0 +1,18 @@
+[package]
+authors = ["VegeBun-csj"]
+description = "an examples for that snarkjs proof and bellman verify"
+license = "MIT/Apache-2.0"
+name = "bellman-practice"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.4"
+bit-vec = "0.4.4"
+pairing = "0.22.0"
+byteorder = "1"
+bls12_381 = "0.7.0"
+bellman = "0.13.1"
+group = "0.12.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
