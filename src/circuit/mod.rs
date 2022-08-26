@@ -4,19 +4,6 @@ use bellman::{Circuit, ConstraintSystem, SynthesisError};
 
 pub const MIMC_ROUNDS: usize = 322;
 
-/// This is an implementation of MiMC, specifically a
-/// variant named `LongsightF322p3` for BLS12-381.
-/// See http://eprint.iacr.org/2016/492 for more
-/// information about this construction.
-///
-/// ```
-/// function LongsightF322p3(xL ⦂ Fp, xR ⦂ Fp) {
-///     for i from 0 up to 321 {
-///         xL, xR := xR + (xL + Ci)^3, xL
-///     }
-///     return xL
-/// }
-/// ```
 pub fn mimc<S: PrimeField>(mut xl: S, mut xr: S, constants: &[S]) -> S {
     assert_eq!(constants.len(), MIMC_ROUNDS);
 

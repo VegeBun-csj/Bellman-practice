@@ -1,0 +1,1 @@
+/Users/bun/DoraFactory/zkp/zcash-zk/Bellman-practice/target/release/bellman-practice: /Users/bun/DoraFactory/zkp/zcash-zk/Bellman-practice/src/circuit/mod.rs /Users/bun/DoraFactory/zkp/zcash-zk/Bellman-practice/src/main.rs

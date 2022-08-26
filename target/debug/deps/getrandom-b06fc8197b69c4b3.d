@@ -1,0 +1,10 @@
+/Users/bun/DoraFactory/zkp/zcash-zk/Bellman-practice/target/debug/deps/getrandom-b06fc8197b69c4b3.rmeta: /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/lib.rs /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/error.rs /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/util.rs /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/util_libc.rs /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/use_file.rs /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/macos.rs
+
+/Users/bun/DoraFactory/zkp/zcash-zk/Bellman-practice/target/debug/deps/getrandom-b06fc8197b69c4b3.d: /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/lib.rs /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/error.rs /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/util.rs /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/util_libc.rs /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/use_file.rs /Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/macos.rs
+
+/Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/lib.rs:
+/Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/error.rs:
+/Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/util.rs:
+/Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/util_libc.rs:
+/Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/use_file.rs:
+/Users/bun/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2/getrandom-0.2.7/src/macos.rs:
